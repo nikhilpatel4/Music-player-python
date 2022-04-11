@@ -1,2 +1,2 @@
 # Music-player-python
-Music player project in python
+<h1> Music player project in python <h1>
